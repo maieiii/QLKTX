@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKTX", "QLKTX\QLKTX.csproj", "{763D65F0-E5D4-4684-BBD6-C52E50856DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763D65F0-E5D4-4684-BBD6-C52E50856DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763D65F0-E5D4-4684-BBD6-C52E50856DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763D65F0-E5D4-4684-BBD6-C52E50856DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763D65F0-E5D4-4684-BBD6-C52E50856DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDCCC9CA-F8E2-4C06-B4A5-73AD7153CB7A}
+	EndGlobalSection
+EndGlobal

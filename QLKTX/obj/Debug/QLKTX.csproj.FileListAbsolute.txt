@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\bin\Debug\QLKTX.exe.config
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\bin\Debug\QLKTX.exe
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\bin\Debug\QLKTX.pdb
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.Form1.resources
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.exe
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
