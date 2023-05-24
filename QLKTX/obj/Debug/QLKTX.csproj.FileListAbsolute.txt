@@ -8,3 +8,4 @@ C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.GenerateResource.
 C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.exe
 C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.pdb
+C:\Users\ADMIN\source\repos\QLKTX\QLKTX\obj\Debug\QLKTX.Resources.frmMain.resources

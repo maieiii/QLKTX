@@ -34,11 +34,8 @@ namespace QLKTX
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
@@ -48,6 +45,9 @@ namespace QLKTX
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -58,7 +58,7 @@ namespace QLKTX
             this.label1.Location = new System.Drawing.Point(309, 110);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 55);
+            this.label1.Size = new System.Drawing.Size(0, 53);
             this.label1.TabIndex = 0;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
@@ -107,31 +107,6 @@ namespace QLKTX
             this.label5.Text = "Hotline: 02435528978";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // label6
-            // 
-            this.label6.BackColor = System.Drawing.SystemColors.Highlight;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label6.Location = new System.Drawing.Point(972, 110);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(108, 33);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Trang chủ";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label6.Click += new System.EventHandler(this.label6_Click);
-            // 
-            // label7
-            // 
-            this.label7.BackColor = System.Drawing.SystemColors.Highlight;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label7.Location = new System.Drawing.Point(1102, 110);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(114, 33);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "Đăng nhập";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label8
             // 
             this.label8.AutoSize = true;
@@ -147,19 +122,6 @@ namespace QLKTX
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(0, 25);
             this.label9.TabIndex = 8;
-            // 
-            // label10
-            // 
-            this.label10.BackColor = System.Drawing.SystemColors.Highlight;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label10.Location = new System.Drawing.Point(1234, 110);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(85, 33);
-            this.label10.TabIndex = 9;
-            this.label10.Text = "Trợ giúp ";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label11
             // 
@@ -257,6 +219,44 @@ namespace QLKTX
             this.button3.Text = "Quên mật khẩu";
             this.button3.UseVisualStyleBackColor = false;
             // 
+            // label10
+            // 
+            this.label10.BackColor = System.Drawing.SystemColors.Highlight;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label10.Location = new System.Drawing.Point(1234, 110);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(85, 33);
+            this.label10.TabIndex = 9;
+            this.label10.Text = "Trợ giúp ";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label10.Click += new System.EventHandler(this.label10_Click);
+            // 
+            // label7
+            // 
+            this.label7.BackColor = System.Drawing.SystemColors.Highlight;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label7.Location = new System.Drawing.Point(1102, 110);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(114, 33);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "Đăng nhập";
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.SystemColors.Highlight;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label6.Location = new System.Drawing.Point(972, 110);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(108, 33);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Trang chủ";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label6.Click += new System.EventHandler(this.label6_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -301,11 +301,8 @@ namespace QLKTX
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
@@ -315,6 +312,9 @@ namespace QLKTX
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label6;
     }
 }
 
